@@ -1,7 +1,7 @@
 class setup {
 
     # Install some default packages
-    $default_packages = [ 'build-essential', 'vim', 'curl', 'git', 'svn' ]
+    $default_packages = [ 'build-essential', 'vim', 'curl', 'git', 'subversion' ]
     package { $default_packages :
         ensure => present,
         require => Exec['apt-update'],
