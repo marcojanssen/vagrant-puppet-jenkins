@@ -16,5 +16,7 @@ class setup {
     include project::phing
     include project::sql
 
+    include project::mongodb
+
     include project::jenkins
 }
