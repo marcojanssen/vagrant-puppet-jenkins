@@ -15,8 +15,11 @@ class setup {
     include project::pear
     include project::phing
     include project::sql
+    include project::mongodb
 
     include project::mongodb
 
     include project::jenkins
+
+
 }
