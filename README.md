@@ -36,7 +36,7 @@ To properly use the plugins QA tools are installed aswell [http://pear.phpqatool
 
 ## Requirements ##
 
-- Vagrant
+- Vagrant (tested with 1.2.7)
 
 ## Installation ##
 
