@@ -67,7 +67,7 @@ If Vagrant hangs on this step (ctrl+c) for aborting and run vagrant up again:
 [default] Waiting for VM to boot. This can take a few minutes.
 ```
 
-If you see puppet running & finishing succesfully (just tried it it works) you are good to go and you should be able to access jenkins on 192:168:2:200:8080
+If you see puppet running & finishing succesfully, you are good to go and you should be able to access jenkins on 192:168:2:200:8080
 ``` bash
 [default] Running provisioner: puppet...
 Running Puppet with default.pp...
