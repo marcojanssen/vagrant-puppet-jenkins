@@ -1,4 +1,4 @@
-# Jenkins-CI setup with Vagrant & Puppet #
+# Jenkins-CI setup file with Vagrant & Puppet #
 
 ----------
 
